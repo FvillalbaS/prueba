@@ -1,0 +1,19 @@
+#banner{
+	height: 200px;
+	background-color: #3B5998;
+}
+section{
+	margin: 0px;
+}
+#medicina{
+	border: solid 2px #ccc;
+	float: left;
+	margin-top: -150px;
+	margin-left: 40px;
+}
+#info{
+	background-color: #ccc;
+	margin-left: 250px;
+	margin-right: 15px;
+	padding: 15px;
+}
